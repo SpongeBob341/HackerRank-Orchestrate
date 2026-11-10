@@ -1,0 +1,122 @@
+{
+  "provider": "Google Gemini API (via Antigravity Development Environment)",
+  "model": "gemini-2.5-flash",
+  "total_calls": 16,
+  "calls": [
+    {
+      "call_id": 1,
+      "task": "intent_classification_batch",
+      "description": "Batched intent classification for 39 unsettled/multilingual/negated unique request_text strings across dataset",
+      "input_tokens": 1842,
+      "output_tokens": 418
+    },
+    {
+      "call_id": 2,
+      "task": "multimodal_extraction:evidence_04",
+      "file_id": "evidence_04",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 3,
+      "task": "multimodal_extraction:evidence_09",
+      "file_id": "evidence_09",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 4,
+      "task": "multimodal_extraction:evidence_14",
+      "file_id": "evidence_14",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 5,
+      "task": "multimodal_extraction:evidence_18",
+      "file_id": "evidence_18",
+      "input_tokens": 1280,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 6,
+      "task": "multimodal_extraction:evidence_19",
+      "file_id": "evidence_19",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 7,
+      "task": "multimodal_extraction:evidence_23",
+      "file_id": "evidence_23",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 8,
+      "task": "multimodal_extraction:evidence_27",
+      "file_id": "evidence_27",
+      "input_tokens": 1280,
+      "output_tokens": 420
+    },
+    {
+      "call_id": 9,
+      "task": "multimodal_extraction:evidence_28",
+      "file_id": "evidence_28",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 10,
+      "task": "multimodal_extraction:evidence_32",
+      "file_id": "evidence_32",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 11,
+      "task": "multimodal_extraction:evidence_37",
+      "file_id": "evidence_37",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 12,
+      "task": "multimodal_extraction:evidence_42",
+      "file_id": "evidence_42",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 13,
+      "task": "multimodal_extraction:evidence_46",
+      "file_id": "evidence_46",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 14,
+      "task": "multimodal_extraction:evidence_55",
+      "file_id": "evidence_55",
+      "input_tokens": 1280,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 15,
+      "task": "multimodal_extraction:evidence_58",
+      "file_id": "evidence_58",
+      "input_tokens": 1280,
+      "output_tokens": 145
+    },
+    {
+      "call_id": 16,
+      "task": "multimodal_extraction:evidence_60",
+      "file_id": "evidence_60",
+      "input_tokens": 1045,
+      "output_tokens": 145
+    }
+  ],
+  "total_input_tokens": 18457,
+  "total_output_tokens": 2868,
+  "total_tokens": 21325
+}

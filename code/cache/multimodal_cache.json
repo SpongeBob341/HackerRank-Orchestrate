@@ -1,0 +1,272 @@
+{
+  "evidence_04": [
+    {
+      "data_category": "USER_PROFILE",
+      "email": "haruka.s1838@zoho.com",
+      "email_hash": null,
+      "full_name": "Haruka Sato",
+      "notes": "Account admin console showing ACTIVE profile account_5762 for Haruka Sato",
+      "phone": "+81 90 9532 8231",
+      "resource_id": "account_5762",
+      "state": "PRESENT",
+      "system_id": "account_service",
+      "user_id": "user_11"
+    }
+  ],
+  "evidence_09": [
+    {
+      "data_category": "SEARCH_INDEX_ENTRY",
+      "email": "g.silva76@gmail.com",
+      "email_hash": null,
+      "full_name": "Gabriel Silva",
+      "notes": "Search index inspector showing active document search_428 in customer_directory_v3",
+      "phone": "+55 11 94112-8834",
+      "resource_id": "search_428",
+      "state": "PRESENT",
+      "system_id": "search_service",
+      "user_id": null
+    }
+  ],
+  "evidence_14": [
+    {
+      "data_category": "DATA_FLOW",
+      "email": "jain.aditi@gmail.com",
+      "email_hash": null,
+      "full_name": "Aditi Jain",
+      "notes": "Connector management console showing enabled=true sync flow data_flow_1121",
+      "phone": null,
+      "resource_id": "data_flow_1121",
+      "state": "ACTIVE",
+      "system_id": "integration_service",
+      "user_id": "user_14"
+    }
+  ],
+  "evidence_18": [
+    {
+      "data_category": "USER_EXPORT",
+      "email": "ingrid.dahl@outlook.com",
+      "email_hash": null,
+      "full_name": "Ingrid Dahl",
+      "notes": "Account history report PDF NST-2026-0718-1842 containing full PII for Ingrid Dahl",
+      "phone": "+47 412 88 903",
+      "resource_id": "NST-2026-0718-1842",
+      "state": "PRESENT",
+      "system_id": "export_service",
+      "user_id": null
+    }
+  ],
+  "evidence_19": [
+    {
+      "data_category": "ANALYTICS_PROFILE",
+      "email": "darwish.omar@icloud.com",
+      "email_hash": null,
+      "full_name": "Omar Darwish",
+      "notes": "Analytics profile view showing identifiable profile analytics_7438",
+      "phone": null,
+      "resource_id": "analytics_7438",
+      "state": "PRESENT",
+      "system_id": "analytics_platform",
+      "user_id": "user_20"
+    }
+  ],
+  "evidence_23": [
+    {
+      "data_category": "USER_EXPORT",
+      "email": "ingrid.dahl@outlook.com",
+      "email_hash": null,
+      "full_name": "Ingrid Dahl",
+      "notes": "Customer export console showing downloadable archive export_1260",
+      "phone": null,
+      "resource_id": "export_1260",
+      "state": "PRESENT",
+      "system_id": "export_service",
+      "user_id": "user_18"
+    }
+  ],
+  "evidence_27": [
+    {
+      "data_category": "LEGAL_HOLD_RECORD",
+      "email": null,
+      "email_hash": null,
+      "full_name": null,
+      "notes": "Disputed order register entry ORD-20264118",
+      "phone": null,
+      "resource_id": "ORD-20264118",
+      "state": "PRESENT",
+      "system_id": "legal_service",
+      "user_id": "user_08"
+    },
+    {
+      "data_category": "LEGAL_HOLD_RECORD",
+      "email": null,
+      "email_hash": null,
+      "full_name": null,
+      "notes": "Disputed order register entry ORD-20264207",
+      "phone": null,
+      "resource_id": "ORD-20264207",
+      "state": "PRESENT",
+      "system_id": "legal_service",
+      "user_id": "user_12"
+    },
+    {
+      "data_category": "LEGAL_HOLD_RECORD",
+      "email": null,
+      "email_hash": null,
+      "full_name": null,
+      "notes": "Disputed order register entry ORD-20264319",
+      "phone": null,
+      "resource_id": "ORD-20264319",
+      "state": "PRESENT",
+      "system_id": "legal_service",
+      "user_id": "user_17"
+    },
+    {
+      "data_category": "LEGAL_HOLD_RECORD",
+      "email": null,
+      "email_hash": null,
+      "full_name": null,
+      "notes": "Disputed order register entry ORD-20264402",
+      "phone": null,
+      "resource_id": "ORD-20264402",
+      "state": "PRESENT",
+      "system_id": "legal_service",
+      "user_id": "user_21"
+    },
+    {
+      "data_category": "LEGAL_HOLD_RECORD",
+      "email": null,
+      "email_hash": null,
+      "full_name": null,
+      "notes": "Disputed order register entry ORD-20264511",
+      "phone": null,
+      "resource_id": "ORD-20264511",
+      "state": "PRESENT",
+      "system_id": "legal_service",
+      "user_id": "user_24"
+    },
+    {
+      "data_category": "LEGAL_HOLD_RECORD",
+      "email": null,
+      "email_hash": null,
+      "full_name": null,
+      "notes": "Disputed order register entry ORD-20264600",
+      "phone": null,
+      "resource_id": "ORD-20264600",
+      "state": "PRESENT",
+      "system_id": "legal_service",
+      "user_id": "user_29"
+    }
+  ],
+  "evidence_28": [
+    {
+      "data_category": "SUPPORT_MESSAGE",
+      "email": "kagyeman8947@fastmail.com",
+      "email_hash": null,
+      "full_name": "Kwesi Agyeman",
+      "notes": "Support ticket console showing unredacted shared ticket support_1034",
+      "phone": "+233 24 025 9916",
+      "resource_id": "support_1034",
+      "state": "PRESENT",
+      "system_id": "support_platform",
+      "user_id": "user_22"
+    }
+  ],
+  "evidence_32": [
+    {
+      "data_category": "BACKUP_ARCHIVE",
+      "email": "areed1433@gmail.com",
+      "email_hash": null,
+      "full_name": "Amelia Reed",
+      "notes": "Backup restore console showing restore_allowed=Yes for backup_9287",
+      "phone": null,
+      "resource_id": "backup_9287",
+      "state": "ACTIVE",
+      "system_id": "backup_service",
+      "user_id": "user_16"
+    }
+  ],
+  "evidence_37": [
+    {
+      "data_category": "SECURITY_AUDIT_LOG",
+      "email": null,
+      "email_hash": null,
+      "full_name": null,
+      "notes": "Security audit explorer showing retained audit_record_003 for user_03",
+      "phone": null,
+      "resource_id": "audit_record_003",
+      "state": "PRESENT",
+      "system_id": "security_service",
+      "user_id": "user_03"
+    }
+  ],
+  "evidence_42": [
+    {
+      "data_category": "ACCOUNT_TOMBSTONE",
+      "email": "leonie.g9352@outlook.com",
+      "email_hash": "a41880222937c1f9",
+      "full_name": "Leonie Gruber",
+      "notes": "Deleted account reference console showing unredacted PII on tombstone for user_17",
+      "phone": "+43 664 3882012",
+      "resource_id": "user_17",
+      "state": "PRESENT",
+      "system_id": "identity_service",
+      "user_id": "user_17"
+    }
+  ],
+  "evidence_46": [
+    {
+      "data_category": "SUPPORT_ATTACHMENT",
+      "email": "priya.raman@gmail.com",
+      "email_hash": null,
+      "full_name": "Priya Raman",
+      "notes": "Object storage browser showing attachment delivery_confirmation_19.pdf belonging solely to user_07",
+      "phone": null,
+      "resource_id": "delivery_confirmation_19.pdf",
+      "state": "PRESENT",
+      "system_id": "object_storage",
+      "user_id": "user_07"
+    }
+  ],
+  "evidence_55": [
+    {
+      "data_category": "SECURITY_AUDIT_LOG",
+      "email": null,
+      "email_hash": null,
+      "full_name": null,
+      "notes": "Security retention extract PDF showing retained audit_record_003 for user_03",
+      "phone": null,
+      "resource_id": "audit_record_003",
+      "state": "PRESENT",
+      "system_id": "security_service",
+      "user_id": "user_03"
+    }
+  ],
+  "evidence_58": [
+    {
+      "data_category": "SUPPORT_ATTACHMENT",
+      "email": "priya.raman@gmail.com",
+      "email_hash": null,
+      "full_name": "Priya Raman",
+      "notes": "Delivery correction attachment PDF support_001 belonging only to Priya Raman",
+      "phone": "+91 98201 44718",
+      "resource_id": "support_001",
+      "state": "PRESENT",
+      "system_id": "support_platform",
+      "user_id": "user_07"
+    }
+  ],
+  "evidence_60": [
+    {
+      "data_category": "MARKETING_PROFILE",
+      "email": "kwame-mensah@proton.me",
+      "email_hash": null,
+      "full_name": "Kwame Mensah",
+      "notes": "Marketing profile console showing active profile marketing_001",
+      "phone": "+233 24 819 3052",
+      "resource_id": "marketing_001",
+      "state": "PRESENT",
+      "system_id": "marketing_platform",
+      "user_id": "user_09"
+    }
+  ]
+}
